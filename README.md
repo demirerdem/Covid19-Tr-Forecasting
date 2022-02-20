@@ -5,6 +5,7 @@
 Türkiye Sağlık Bakanlığı [Resmi Web Sitesinden](https://covid19.saglik.gov.tr/TR-66935/genel-koronavirus-tablosu.html) çekilen veriler kullanılarak Makine Öğrenmesi Modelleri ile vaka tahminlemesi yapılması.
 
 https://www.kaggle.com/nafizcntz/makine-renmesi-ile-t-rkiye-covid-vaka-tahmini 
+
 https://github.com/demirerdem/Covid19-Tr-Forecasting/blob/main/Makine_Ogrenmesi_ile_Turkiye_Covid_Vaka_Tahmini_v11.pdf
 
 ## Gereksinimler
